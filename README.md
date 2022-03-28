@@ -1,2 +1,2 @@
 # MIS551
-mis551 sprint 2022
+mis551 spring 2022
